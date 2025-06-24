@@ -190,9 +190,10 @@
     "@babel/helper-validator-identifier" "^7.19.1"
     to-fast-properties "^2.0.0"
 
-"@block-wallet/remote-configs@https://github.com/block-wallet/remote-configs#v1.1.0":
+"@block-wallet/remote-configs@https://github.com/block-wallet/remote-configs#v1.2.0":
   version "0.0.0"
-  resolved "https://github.com/block-wallet/remote-configs#eca1a737090b224974ede7b47ec44224b31fe2d1"
+  uid f82ec0dfde2c2171840c3acf452b299f10135b8a
+  resolved "https://github.com/block-wallet/remote-configs#f82ec0dfde2c2171840c3acf452b299f10135b8a"
 
 "@cspotcode/source-map-support@^0.8.0":
   version "0.8.1"
